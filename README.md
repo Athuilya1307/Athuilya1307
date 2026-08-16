@@ -1,114 +1,236 @@
 <h1 align="center">Hi 👋, I'm Athuliya A S</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Laravel | React | Node.js
+Full Stack Developer | Laravel | PHP | React | Node.js
 </h3>
 
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
+  <a href="https://github.com/Athuilya1307">
+    <img src="https://komarev.com/ghpvc/?username=Athuilya1307&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Athuilya1307&label=Profile%20Views&color=0e75b6&style=flat"/>
+---
+
+## 💫 About Me
+
+💼 Software Developer with **2.8+ years of professional experience**
+
+🚀 Experienced in building web applications using **Laravel, PHP, MySQL and REST APIs**
+
+⚛️ Currently expanding my full-stack expertise with **React, Node.js, Express.js and Prisma**
+
+🔐 Experienced with **Authentication, RBAC, Middleware, CRUD, REST APIs and approval workflows**
+
+📊 Worked on **dashboards, reporting systems, charts and business-oriented applications**
+
+🧠 Interested in **backend architecture, clean code, scalable APIs and real-world problem solving**
+
+🎯 Currently looking for **Full Stack Developer / Laravel Developer opportunities**
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### Database & ORM
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+## 🛠️ What I Work With
+
+* Laravel & PHP application development
+* REST API development
+* MySQL database design
+* Eloquent ORM
+* Authentication & Authorization
+* Role-Based Access Control (RBAC)
+* Middleware
+* CRUD & business workflows
+* Approval processes
+* Dashboards & reporting
+* React frontend development
+* Node.js & Express.js APIs
+* Prisma ORM
+* Git & GitHub
+* Application deployment
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Smart Job Application Tracker
+
+A full-stack application for managing and tracking job applications.
+
+**Tech Stack:** React · Node.js · Express.js · MySQL · Prisma · JWT
+
+**Features:**
+
+* 🔐 User authentication
+* 👤 Role-based access
+* 💼 Job management
+* 📝 Application tracking
+* 📊 Dashboard
+* 🔎 Application status management
+* 🔗 REST APIs
+
+🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
+
+🌐 **Live Demo:** `YOUR_LIVE_PROJECT_LINK`
+
+---
+
+### 📦 Inventory Management System
+
+A production-oriented inventory management application built with Laravel and Filament.
+
+**Tech Stack:** Laravel · PHP · MySQL · Filament
+
+**Features:**
+
+* 📦 Product management
+* 🏷️ Categories & brands
+* 🚚 Supplier management
+* 🧾 Purchase management
+* 📊 Inventory tracking
+* 🔄 Stock transactions
+* 📈 Stock history
+* 🔐 Admin panel
+* 👥 User management
+
+🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
+
+---
+
+### 🔐 Laravel REST API
+
+Backend API project demonstrating Laravel API development and authentication.
+
+**Tech Stack:** Laravel · PHP · MySQL · REST API
+
+**Features:**
+
+* Authentication
+* API endpoints
+* CRUD operations
+* Middleware
+* Validation
+* Authorization
+* Database relationships
+
+🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Athuilya1307&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Athuilya1307&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athuilya1307&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Athuilya1307&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athuilya1307&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:athuilya1307@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/Athuilya1307">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </p>
 
 ---
 
-# 💫 About Me
+## 💡 Currently
 
-💼 Software Developer with **2+ years of experience**
+🌱 Improving my **React & Node.js** skills
 
-🚀 Experienced in developing scalable web applications using **Laravel, PHP, MySQL & REST APIs**
+🏗️ Building full-stack applications
 
-🌱 Currently building Full Stack applications using **React, Node.js, PostgreSQL & Prisma**
+🧠 Practicing **DSA & problem solving**
 
-💡 Passionate about clean architecture, backend development and solving real-world problems.
+📚 Learning **System Design & scalable backend architecture**
 
-🎯 Looking for **Full Stack Developer** opportunities.
-
----
-
-# 🚀 Tech Stack
-
-### Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+🚀 Preparing for my next **Full Stack Developer opportunity**
 
 ---
 
-# 📌 Featured Projects
-
-🚀 Smart Job Application Tracker *(React + Node.js + PostgreSQL + Prisma)*
-
-💼 Laravel REST API
-
-🔐 Authentication System
-
-📊 Dashboard & Reports
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Athuilya1307&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Athuilya1307&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athuilya1307&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Athuilya1307&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Athuilya1307&theme=tokyo-night)
-
----
-
-# 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:athuilya1307@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
----
-
-## 💡 Quote
+## 💬 Quote
 
 > "Code. Learn. Build. Repeat."
 
-⭐ If you like my work, consider giving my repositories a star!
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
