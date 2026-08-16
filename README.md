@@ -11,9 +11,7 @@ Full Stack Developer | Laravel | PHP | React | Node.js
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 ---
@@ -24,15 +22,13 @@ Full Stack Developer | Laravel | PHP | React | Node.js
 
 🚀 Experienced in building web applications using **Laravel, PHP, MySQL and REST APIs**
 
-⚛️ Currently expanding my full-stack expertise with **React, Node.js, Express.js and Prisma**
+⚛️ Expanding my full-stack expertise with **React, Node.js, Express.js and Prisma**
 
-🔐 Experienced with **Authentication, RBAC, Middleware, CRUD, REST APIs and approval workflows**
+🔐 Experienced with **Authentication, Authorization, RBAC, Middleware and approval workflows**
 
-📊 Worked on **dashboards, reporting systems, charts and business-oriented applications**
+📊 Experienced in building **dashboards, reporting systems, charts and business-oriented applications**
 
 🧠 Interested in **backend architecture, clean code, scalable APIs and real-world problem solving**
-
-🎯 Currently looking for **Full Stack Developer / Laravel Developer opportunities**
 
 ---
 
@@ -45,6 +41,7 @@ Full Stack Developer | Laravel | PHP | React | Node.js
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament"/>
 </p>
 
 ### Frontend
@@ -62,36 +59,18 @@ Full Stack Developer | Laravel | PHP | React | Node.js
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent"/>
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
-
----
-
-## 🛠️ What I Work With
-
-* Laravel & PHP application development
-* REST API development
-* MySQL database design
-* Eloquent ORM
-* Authentication & Authorization
-* Role-Based Access Control (RBAC)
-* Middleware
-* CRUD & business workflows
-* Approval processes
-* Dashboards & reporting
-* React frontend development
-* Node.js & Express.js APIs
-* Prisma ORM
-* Git & GitHub
-* Application deployment
 
 ---
 
@@ -113,9 +92,7 @@ A full-stack application for managing and tracking job applications.
 * 🔎 Application status management
 * 🔗 REST APIs
 
-🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
-
-🌐 **Live Demo:** `YOUR_LIVE_PROJECT_LINK`
+🔗 **Repository:** [Smart Job Application Tracker](https://github.com/Athuilya1307/smart_job_tracker)
 
 ---
 
@@ -128,7 +105,7 @@ A production-oriented inventory management application built with Laravel and Fi
 **Features:**
 
 * 📦 Product management
-* 🏷️ Categories & brands
+* 🏷️ Category & brand management
 * 🚚 Supplier management
 * 🧾 Purchase management
 * 📊 Inventory tracking
@@ -136,60 +113,34 @@ A production-oriented inventory management application built with Laravel and Fi
 * 📈 Stock history
 * 🔐 Admin panel
 * 👥 User management
+* 🛡️ Business-rule validation
 
-🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
-
----
-
-### 🔐 Laravel REST API
-
-Backend API project demonstrating Laravel API development and authentication.
-
-**Tech Stack:** Laravel · PHP · MySQL · REST API
-
-**Features:**
-
-* Authentication
-* API endpoints
-* CRUD operations
-* Middleware
-* Validation
-* Authorization
-* Database relationships
-
-🔗 **Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
+🔗 **Repository:** [Inventory Management System](https://github.com/Athuilya1307/Inventory-Management-System.git)
 
 ---
 
-## 📈 GitHub Stats
+### 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athuilya1307&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+**Software Developer — Laravel / PHP**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Athuilya1307&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athuilya1307&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+* Developed and maintained business-oriented web applications
+* Built REST APIs and backend modules using Laravel
+* Designed and worked with MySQL databases and Eloquent relationships
+* Implemented authentication, authorization and RBAC
+* Developed CRUD modules and approval workflows
+* Built dashboards, reports and data visualizations
+* Worked on application maintenance, debugging and feature development
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athuilya1307&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athuilya1307&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+* ⚛️ Advanced React
+* 🟢 Node.js & Express.js
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design
+* 🚀 Scalable Backend Architecture
+* ☁️ Cloud & Application Deployment
 
 ---
 
@@ -197,7 +148,7 @@ Backend API project demonstrating Laravel API development and authentication.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/athuilya-a-s1302">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -210,20 +161,6 @@ Backend API project demonstrating Laravel API development and authentication.
 </a>
 
 </p>
-
----
-
-## 💡 Currently
-
-🌱 Improving my **React & Node.js** skills
-
-🏗️ Building full-stack applications
-
-🧠 Practicing **DSA & problem solving**
-
-📚 Learning **System Design & scalable backend architecture**
-
-🚀 Preparing for my next **Full Stack Developer opportunity**
 
 ---
 
